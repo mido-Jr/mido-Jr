@@ -1,6 +1,9 @@
-### Hi there 👋
-- 📫 How to reach me: eng.ahmadelnassag@gmail.com
+![image](https://user-images.githubusercontent.com/72288293/222724603-32459a43-7342-4642-a836-449a806b6dbd.png)
 
+
+### Hi there 👋
+I’m Mido, a machine learning engineer, passionate about machine learning, deep learning, proficient in a range of modern technologies using Python
+- 📫 How to reach me: eng.ahmadelnassag@gmail.com
 
 <!--
 **mido-Jr/mido-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
